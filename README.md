@@ -7,5 +7,5 @@ It is written in C# using WPF technology but due to the lack of experience in th
 design patterns like MVVM, to help organise the code, main point was to introduce pathfinding algorithms, in
 graphical way so to let anyone to test it by himself, and I think this goal was achived.
 
-I gained certificate and what is more important I made myself familiar with widly used algorithms like A* or Dijkstra,
+I gained certificate and what is more important I made myself familiar with widely used algorithms like A* or Dijkstra,
 also some of them (A*, BFS, UCS) I implemented from scratch in order to better understand their structure.
